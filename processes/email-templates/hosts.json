@@ -1,0 +1,14 @@
+{
+  "amazon": {
+    "name": "Amazon",
+    "address": "1 Station Square",
+    "map": "https://goo.gl/maps/Ye2LaHFZ2uG2",
+    "instructions": "When you arrive, please look for the revolving door entrance just past Caffè Nero"
+  },
+  "metail": {
+    "name": "Metail",
+    "address": "50 St Andrew's Street, third floor",
+    "map": "https://goo.gl/maps/jjq1tLuqmBQ2",
+    "instructions": "Please press button number 5 on the buzzer to let us know you've arrived"
+  }
+}
