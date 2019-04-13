@@ -1,0 +1,8 @@
+{
+  "name": "email-template-renderer",
+  "private": true,
+  "dependencies": {
+    "handlebars": "^4.1.1",
+    "moment": "^2.24.0"
+  }
+}
