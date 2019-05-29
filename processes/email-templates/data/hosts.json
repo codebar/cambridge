@@ -10,5 +10,11 @@
     "address": "50 St Andrew's Street, third floor",
     "map": "https://goo.gl/maps/jjq1tLuqmBQ2",
     "instructions": "Please press button number 5 on the buzzer to let us know you've arrived"
+  },
+  "wayve": {
+    "name": "Wayve",
+    "address": "30 Station Road",
+    "map": "https://goo.gl/maps/EEm1mrywduE5jePR6",
+    "instructions": "When you enter the building, their office will be the first on your left"
   }
 }
