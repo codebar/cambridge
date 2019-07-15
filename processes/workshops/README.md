@@ -31,6 +31,6 @@
 
 - You can tell someone is attending for the first time if there's an `I` next to their name
 
-[email-reminder]: ./email-templates
+[email-reminder]: ../email-templates
 [working-laptop]: http://tutorials.codebar.io/general/setup/tutorial.html
 [coach-guide]: https://codebar.io/effective-teacher-guide
