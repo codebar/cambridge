@@ -23,7 +23,7 @@
   - If they're new students, confirm that they've brought a [working laptop][working-laptop]
   - If they're new coaches, ask if they've read the [coach guide][coach-guide]
 - Ask any students who've picked **I don't know, I'm a complete beginner** or **Other** for clarification
-- Pair students and coaches based on what the students want to learn and what the coaches can teach
+- [Pair students and coaches][pairing] based on what the students want to learn and what the coaches can teach
 - Get everyone's attention, indicate toilets and fire exits, thank the hosts and announce the pairs
 - After the event, verify everyone's attendance on the website
 
@@ -34,3 +34,4 @@
 [email-reminder]: ../email-templates
 [working-laptop]: http://tutorials.codebar.io/general/setup/tutorial.html
 [coach-guide]: https://codebar.io/effective-teacher-guide
+[pairing]: ./pairing
