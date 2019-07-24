@@ -16,5 +16,11 @@
     "address": "30 Station Road",
     "map": "https://goo.gl/maps/EEm1mrywduE5jePR6",
     "instructions": "When you enter the building, their office will be the first on your left"
+  },
+  "redgate": {
+    "name": "Redgate",
+    "address": "Newnham House, Cambridge Business Park",
+    "map": "https://goo.gl/maps/HSe9tDmXdDDPGgkA7",
+    "instructions": "When you arrive at the Business Park from Milton Road, please look for the large red brick building on your right"
   }
 }
