@@ -14,14 +14,16 @@ There will be food and drinks available, courtesy of our hosts. Please let me kn
 
 **If you're a student**, please bring a [working laptop][setup]. You'll be paired with a coach based on what you want to learn (if you're looking for inspiration, check out our [tutorials]).
 
-{{#if organiser.mobile}}
+{{#with organiser}}
+{{#if mobile}}
 Best wishes,\
-{{organiser.name}} ({{organiser.pronouns}})\
-{{organiser.mobile}}
+{{name}} ({{pronouns}})\
+{{mobile}}
 {{else}}
 Best wishes,\
-{{organiser.name}} ({{organiser.pronouns}})
+{{name}} ({{pronouns}})
 {{/if}}
+{{/with}}
 
 [coc]: https://codebar.io/code-of-conduct
 [coach-guide]: https://codebar.io/effective-teacher-guide
