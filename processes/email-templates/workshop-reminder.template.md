@@ -15,13 +15,12 @@ There will be food and drinks available, courtesy of our hosts. Please let me kn
 **If you're a student**, please bring a [working laptop][setup]. You'll be paired with a coach based on what you want to learn (if you're looking for inspiration, check out our [tutorials]).
 
 {{#with organiser}}
-{{#if mobile}}
-Best wishes,\
-{{name}} ({{pronouns}})\
-{{mobile}}
-{{else}}
-Best wishes,\
+Best wishes,
+\
 {{name}} ({{pronouns}})
+{{#if mobile}}
+\
+{{mobile}}
 {{/if}}
 {{/with}}
 
