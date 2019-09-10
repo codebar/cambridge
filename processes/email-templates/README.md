@@ -8,5 +8,5 @@
 ## Usage
 
 ```bash
-make render HOST=amazon ORGANISER=lubos
+make render HOST=amazon ORGANISER=caro
 ```
