@@ -16,11 +16,11 @@ There will be food and drinks available, courtesy of our hosts. Please let me kn
 
 {{#if organiser.mobile}}
 Best wishes,\
-{{organiser.name}}\
+{{organiser.name}} ({{organiser.pronouns}})\
 {{organiser.mobile}}
 {{else}}
 Best wishes,\
-{{organiser.name}}
+{{organiser.name}} ({{organiser.pronouns}})
 {{/if}}
 
 [coc]: https://codebar.io/code-of-conduct

@@ -1,12 +1,15 @@
 {
   "alex": {
     "name": "Alex Tercete",
+    "pronouns": "he/him",
     "mobile": "07931 021971"
   },
   "caro": {
-    "name": "Caro Appleby"
+    "name": "Caro Appleby",
+    "pronouns": "she/her"
   },
   "sushmita": {
-    "name": "Sushmita Sri"
+    "name": "Sushmita Sri",
+    "pronouns": "she/her"
   }
 }
