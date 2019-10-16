@@ -22,5 +22,11 @@
     "address": "Newnham House, Cambridge Business Park",
     "map": "https://goo.gl/maps/HSe9tDmXdDDPGgkA7",
     "instructions": "When you arrive at the Business Park from Milton Road, please look for the large red brick building on your right"
+  },
+  "fiveai": {
+    "name": "FiveAI",
+    "address": "20 Cambridge Place",
+    "map": "https://goo.gl/maps/WbHFDogzN3u33Vzw9",
+    "instructions": "Their office is about halfway down Cambridge Place, on the left. Look for the big grey door with the number 20 and the FiveAI sign"
   }
 }
