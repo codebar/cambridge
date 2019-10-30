@@ -28,5 +28,11 @@
     "address": "20 Cambridge Place",
     "map": "https://goo.gl/maps/WbHFDogzN3u33Vzw9",
     "instructions": "Their office is about halfway down Cambridge Place, on the left. Look for the big grey door with the number 20 and the FiveAI sign"
+  },
+  "metaswitch": {
+    "name": "Metaswitch",
+    "address": "Edinburgh House, St John's Innovation Park",
+    "map": "https://goo.gl/maps/nRzghz3MkTuggaty6",
+    "instructions": "From Cowley Road, enter the St. John’s Innovation Park, passing the site map on your right. Go straight ahead, following the road as it curves slightly to the right, and go as far as you can up to a set of barriers across a car park entrance. Edinburgh House is the building on your right. There are two entrances to Edinburgh House (two sets of two glass doors with a revolving door in the middle) – either is fine. Press the button labelled \"Metaswitch\" on the buzzer and someone will let you in. If you use the entrance nearest Cowley Road, the lift is on your right. If you use the other entrance, you will have to cross the lobby to find the lift on your left. Take the lift to the second floor and then they are through the door immediately on your right"
   }
 }
