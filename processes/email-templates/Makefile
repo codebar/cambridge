@@ -4,4 +4,4 @@ HOST = metail
 ORGANISER = alex
 
 render:
-	@ $(NODE) render.js --host $(HOST) --organiser $(ORGANISER)
+	@ $(NODE) render.js --host $(HOST) --sponsor $(SPONSOR) --organiser $(ORGANISER)

@@ -5,12 +5,14 @@ const { compile } = require('handlebars');
 
 const options = parseArgs(process.argv.slice(2));
 const hosts = require('./data/hosts.json');
+const sponsors = require('./data/sponsors.json');
 const organisers = require('./data/organisers.json');
 const template = fs.readFileSync('./workshop-reminder.template.md', 'utf8');
 
 const markdown = compile(template)({
   date: moment().format('dddd, Do MMMM'),
   host: hosts[options.host],
+  sponsor: sponsors[options.sponsor],
   organiser: organisers[options.organiser]
 });
 

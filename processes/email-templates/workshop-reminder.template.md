@@ -8,7 +8,15 @@ We're looking forward to seeing you at the codebar workshop today ({{date}}) at 
 
 The event will be hosted by **{{host.name}}**, located at [{{{host.address}}}]({{host.map}}). {{{host.instructions}}}.
 
-There will be food and drinks available, courtesy of our hosts. Please let us know if you have any dietary requirements, and we’ll try our best to accommodate you.
+There will be food and drinks available, courtesy of
+{{~#if sponsor}}
+{{#with sponsor}}
+ **[{{name}}]({{url}})**.
+{{/with}}
+{{else}}
+our hosts.
+{{/if}}
+Please let us know if you have any dietary requirements, and we’ll try our best to accommodate you.
 
 **If you're coming for the first time**, make sure to read our [code of conduct][coc] (new coaches should also read the [coach guide][coach-guide]).
 
