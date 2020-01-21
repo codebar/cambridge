@@ -14,7 +14,7 @@ There will be food and drinks available, courtesy of
  **[{{name}}]({{url}})**.
 {{/with}}
 {{else}}
-our hosts.
+ our hosts.
 {{/if}}
 Please let us know if you have any dietary requirements, and we’ll try our best to accommodate you.
 
